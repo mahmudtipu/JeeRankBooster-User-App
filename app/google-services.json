@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960864206887",
+    "firebase_url": "https://jee-rank-booster-default-rtdb.firebaseio.com",
+    "project_id": "jee-rank-booster",
+    "storage_bucket": "jee-rank-booster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960864206887:android:e2a7b965e2bc9cb62f8e02",
+        "android_client_info": {
+          "package_name": "com.jeerankbooster.iithandwrittennotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960864206887-vvhgj5okdqqg0djkij39akc518lgmfed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeerankbooster.iithandwrittennotes",
+            "certificate_hash": "ed09d006e45b2248c27bf7463a19e9efaffae93e"
+          }
+        },
+        {
+          "client_id": "960864206887-krmgelhid36ebfa0au7u42o5bftup11q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmLdtNhoT_70oVbTGzbhyGVPCLdanOrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960864206887-krmgelhid36ebfa0au7u42o5bftup11q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
